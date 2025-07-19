@@ -44,3 +44,58 @@ Real-time tracking logic
 Data insights over multiple days
 
 Clean architecture with views and reusable queries
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Project (2);
+# Hospital Management System – SQL Database Project
+This project focuses on building and querying a structured Hospital Management System using SQL. It includes comprehensive tables for departments, doctors, patients, visits, billing, medications, and prescriptions to simulate a real-world hospital scenario.
+
+# Objective
+To create a normalized SQL-based hospital database and derive insights through SQL queries such as patient history, billing, visit tracking, and prescription analysis.
+
+# Tools Used
+MySQL / SQL Workbench
+
+SQL DDL & DML
+
+Foreign Key Constraints
+
+Aggregations & Joins
+
+# Features
+Doctor and department linkage
+
+Complete patient visit & treatment history
+
+Real-time billing and payment tracking
+
+Medication prescription records
+
+Analytical queries for admin insights
+
+# Structure
+Departments – hospital units (e.g., Cardiology)
+
+Doctors – staff details
+
+Patients – individual records
+
+Visits – consultations & diagnosis
+
+Bills – payment tracking
+
+Medications & Prescriptions – treatment linkage
+
+# Outcome
+The system enables effective management of hospital operations, simplifies record maintenance, and provides analytical capabilities for better decision-making.
+
+# Key Insights
+Visit trends per doctor
+
+Total billing per department
+
+Pending payments and payment modes
+
+Commonly prescribed medications
+
+
